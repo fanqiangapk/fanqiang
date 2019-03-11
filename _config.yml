@@ -4,10 +4,10 @@
 
 
 # Name of your site (displayed in the header)
-name: 佳士工人声援团官网
+#name: 佳士工人声援团官网
 
 # Short bio or description (displayed in the header)
-description: 同战斗，共进退！
+#description: 同战斗，共进退！
 
 #
 # Flags below are optional
@@ -43,10 +43,10 @@ paginate: 10
 footer-links:
   behance: # https://www.behance.net/<username>
   dribbble:
-  email: jiashigrsyt@protonmail.com
+  email: #jiashigrsyt@protonmail.com
   facebook: jiashigrsyt01
   flickr:
-  github: jiashigrsyt1/jiashigrsyt1.github.io
+  github: #jiashigrsyt1/jiashigrsyt1.github.io
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -54,7 +54,7 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
-  twitter: jasic_worker
+  twitter: #jasic_worker
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in foot
